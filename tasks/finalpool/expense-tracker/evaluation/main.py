@@ -1,4 +1,4 @@
-# Evaluation script for log-analyzer
+# Evaluation script for expense-tracker
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic
